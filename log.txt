@@ -1,0 +1,165 @@
+hamid@LAPTOP-B1CKD0JI MINGW64 ~/Desktop/ccGit (tobedeleted)
+$ git log
+commit 265a5cfd1a7b5fd742572c5e07e9e2561007b5f9 (HEAD -> tobedeleted, origin/main, meteo, main, hobby)
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 12:14:54 2023 +0100
+
+    README dans la branche meteo
+
+commit 3ac5e9e6e3c3665753a8b9cf429457635bf2e44b
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 12:09:42 2023 +0100
+
+    le code commente sur meteo
+
+commit 37ffbf5149a176d97489ddb382618671181109fb (origin/meteo)
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 12:02:00 2023 +0100
+
+    Modification meteo
+
+commit c196466d9d71b389b3108de0d17682a49e570d5e
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 11:52:34 2023 +0100
+
+    helle word
+
+:
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 12:14:54 2023 +0100
+
+    README dans la branche meteo
+
+commit 3ac5e9e6e3c3665753a8b9cf429457635bf2e44b
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 12:09:42 2023 +0100
+
+    le code commente sur meteo
+
+commit 37ffbf5149a176d97489ddb382618671181109fb (origin/meteo)
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 12:02:00 2023 +0100
+
+    Modification meteo
+
+commit c196466d9d71b389b3108de0d17682a49e570d5e
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 11:52:34 2023 +0100
+
+    helle word
+
+:
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 12:14:54 2023 +0100
+
+    README dans la branche meteo
+
+commit 3ac5e9e6e3c3665753a8b9cf429457635bf2e44b
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 12:09:42 2023 +0100
+
+    le code commente sur meteo
+
+commit 37ffbf5149a176d97489ddb382618671181109fb (origin/meteo)
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 12:02:00 2023 +0100
+
+    Modification meteo
+
+commit c196466d9d71b389b3108de0d17682a49e570d5e
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 11:52:34 2023 +0100
+
+    helle word
+
+:
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 12:14:54 2023 +0100
+
+    README dans la branche meteo
+
+commit 3ac5e9e6e3c3665753a8b9cf429457635bf2e44b
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 12:09:42 2023 +0100
+
+    le code commente sur meteo
+
+commit 37ffbf5149a176d97489ddb382618671181109fb (origin/meteo)
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 12:02:00 2023 +0100
+
+    Modification meteo
+
+commit c196466d9d71b389b3108de0d17682a49e570d5e
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 11:52:34 2023 +0100
+
+    helle word
+
+...skipping...
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 12:14:54 2023 +0100
+
+    README dans la branche meteo
+
+commit 3ac5e9e6e3c3665753a8b9cf429457635bf2e44b
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 12:09:42 2023 +0100
+
+    le code commente sur meteo
+
+commit 37ffbf5149a176d97489ddb382618671181109fb (origin/meteo)
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 12:02:00 2023 +0100
+
+    Modification meteo
+
+commit c196466d9d71b389b3108de0d17682a49e570d5e
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 11:52:34 2023 +0100
+
+    helle word
+
+commit c5d7667562e20b39824c72dd067923fc6cbb20e1
+Merge: 2d8e211 0b6e88d
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 11:41:53 2023 +0100
+
+    Merge branch 'main' of https://github.com/yoskoi/control
+
+commit 2d8e211285d2ed03f8af2f73e7fd45a70ed8f5e7
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 11:35:07 2023 +0100
+
+    controlc
+
+commit 0b6e88d842d6cfbd0114dd97b9dd9244f7437979
+Author: Moctar <123832794+yoskoi@users.noreply.github.com>
+Date:   Thu Nov 23 11:23:00 2023 +0100
+
+    Initial commit
+...skipping...
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 11:52:34 2023 +0100
+
+    helle word
+
+commit c5d7667562e20b39824c72dd067923fc6cbb20e1
+Merge: 2d8e211 0b6e88d
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 11:41:53 2023 +0100
+
+    Merge branch 'main' of https://github.com/yoskoi/control
+
+commit 2d8e211285d2ed03f8af2f73e7fd45a70ed8f5e7
+Author: yoskoi <hamidymoctar@gmail.com>
+Date:   Thu Nov 23 11:35:07 2023 +0100
+
+    controlc
+
+commit 0b6e88d842d6cfbd0114dd97b9dd9244f7437979
+Author: Moctar <123832794+yoskoi@users.noreply.github.com>
+Date:   Thu Nov 23 11:23:00 2023 +0100
+
+    Initial commit
+

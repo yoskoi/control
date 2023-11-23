@@ -1,0 +1,18 @@
+hamid@LAPTOP-B1CKD0JI MINGW64 ~/Desktop/ccGit (tobedeleted)
+$ git reflog
+265a5cf (HEAD -> tobedeleted, origin/main, meteo, main, hobby) HEAD@{0}: reset: moving to HEAD~1
+f1e4a26 HEAD@{1}: commit: ajouté azerty
+265a5cf (HEAD -> tobedeleted, origin/main, meteo, main, hobby) HEAD@{2}: checkout: moving from hobby to tobedeleted
+265a5cf (HEAD -> tobedeleted, origin/main, meteo, main, hobby) HEAD@{3}: reset: moving to HEAD~1
+558194f HEAD@{4}: commit: le code hobby
+265a5cf (HEAD -> tobedeleted, origin/main, meteo, main, hobby) HEAD@{5}: checkout: moving from main to hobby
+265a5cf (HEAD -> tobedeleted, origin/main, meteo, main, hobby) HEAD@{6}: merge meteo: Fast-forward
+c196466 HEAD@{7}: checkout: moving from meteo to main
+265a5cf (HEAD -> tobedeleted, origin/main, meteo, main, hobby) HEAD@{8}: commit: README dans la branche meteo
+3ac5e9e HEAD@{9}: commit: le code commente sur meteo
+37ffbf5 (origin/meteo) HEAD@{10}: commit: Modification meteo
+c196466 HEAD@{11}: checkout: moving from main to meteo
+c196466 HEAD@{12}: commit: helle word
+c5d7667 HEAD@{13}: pull origin main --allow-unrelated-histories: Merge made by the 'ort' strategy.
+2d8e211 HEAD@{14}: Branch: renamed refs/heads/master to refs/heads/main
+2d8e211 HEAD@{16}: commit (initial): controlc
